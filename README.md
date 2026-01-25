@@ -188,11 +188,6 @@
   <strong>Advanced RTOS Concepts</strong> | <strong>Rust for Embedded</strong> | <strong>System Design Principles</strong> | <strong>Cloud IoT Platforms (AWS/Azure)</strong>
 </p>
 
-<h2 class="section-title">⚡ Fun Fact</h2>
-<p class="fun-fact">
-  I once spent an entire weekend debugging a single Heisenbug caused by a race condition in an ISR... and loved every frustrating minute of it! 🤓
-</p>
-
 ---
 
 <!-- Connect Section with Modern Layout -->
