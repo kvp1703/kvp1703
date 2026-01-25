@@ -81,9 +81,8 @@
 <!-- About Me Section with Clean Typography -->
 <h2 class="section-title">👨‍💻 About Me</h2>
 <p class="about-text">
-  I’m an <strong>Associate Software Engineer</strong> at Espressif Systems, passionate about building robust and efficient solutions for the IoT world.<br />
-  Graduated from <strong>VIT Pune ’23</strong>, my expertise lies in embedded systems, firmware development (especially with <strong>FreeRTOS & ESP-IDF</strong>),<br />
-  protocol integration, and creating memory-optimized applications. <br />
+  I’m an <strong>Software Engineer</strong> at Dell Technologies, passionate about Operating Systems and Kernels.<br />
+  Graduated from <strong>VIT Pune ’23</strong>, my expertise lies in operating system, filesystem, embedded systems, firmware development (especially with <strong>FreeRTOS & ESP-IDF</strong>),<br />
   I thrive on challenges and enjoy diving deep into system-level programming and competitive coding.
 </p>
 
